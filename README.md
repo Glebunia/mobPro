@@ -7,7 +7,7 @@ Update employee information.
 Delete employees from the system.
 
 
-Technologies Used
+Technologies Used:
 
 Frontend: React Native
 Backend: ASP.NET Web API
